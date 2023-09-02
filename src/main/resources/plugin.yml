@@ -1,0 +1,6 @@
+name: TrackingArrows
+version: '${project.version}'
+main: de.tamion.TrackingArrows
+api-version: '1.20'
+authors: [Tamion]
+description: Adds Tracking Arrows
